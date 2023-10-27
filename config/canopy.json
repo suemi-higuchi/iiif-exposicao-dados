@@ -11,7 +11,7 @@
       "https://viagens-iiif.vercel.app/26/manifest.json",
       "https://viagens-iiif.vercel.app/04/manifest.json"    
     ],
-    "metadata": ["Date", "Type", "Creator"]
+    "metadata": ["Type"]
   },
   "dev": {
     "label": { "none": ["Coleção Viagens"] },
@@ -25,6 +25,6 @@
       "https://viagens-iiif.vercel.app/26/manifest.json",
       "https://viagens-iiif.vercel.app/04/manifest.json" 
     ],
-    "metadata": ["Date", "Type", "Creator"]
+    "metadata": ["Type"]
   }
 }
