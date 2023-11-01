@@ -49,8 +49,7 @@ const Index: React.FC<IndexProps> = ({ featuredItem, collections }) => {
         <Heading as="h2">Sobre a coleção</Heading>
         <div>
           <p>
-         Este é um teste de criação de exposição na Oficina do Martim e recursos do IIIF com fotos aleatórias.
-          </a>.
+            Este é um teste de criação de exposição na Oficina do Martim e recursos do IIIF com fotos aleatórias.
           </p>
         </div>
         <Related
