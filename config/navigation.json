@@ -1,6 +1,10 @@
 {
   "primary": [
     {
+      "path": "/exhibit",
+      "text": "Exibição"
+    },
+    {
       "path": "/works",
       "text": "Objetos"
     },
