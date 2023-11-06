@@ -1,1 +1,1 @@
-# Coleção Sebastião Lacerda
+# Exposição usando vercel e canopy
